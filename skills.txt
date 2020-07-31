@@ -5,3 +5,4 @@ java
 salesforce
 pyhton
 ruby
+linux and networking

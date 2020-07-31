@@ -4,3 +4,4 @@ skills
 java
 salesforce
 pyhton
+ruby
